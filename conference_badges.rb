@@ -13,8 +13,8 @@ return new_array
 end
 
 def assign_rooms
-
-puts "Hello, #{}! You'll be assigned to room #{}!"
+new_array = []
+new_array.push("Hello, #{}! You'll be assigned to room #{}!")
 end
 
 def printer
