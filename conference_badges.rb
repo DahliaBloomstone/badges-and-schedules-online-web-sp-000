@@ -1,4 +1,5 @@
 def conference_badges(names)
+  names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
 puts "Hello, my name is #{name}."
@@ -7,7 +8,6 @@ end
 return array of names
 end
 
-names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms
 
@@ -16,4 +16,4 @@ end
 
 def printer
   return methods above
-end 
+end
