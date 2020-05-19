@@ -12,10 +12,13 @@ end
 return new_array
 end
 
-def assign_rooms
+def assign_rooms(array)
 new_array = []
+counter = 1
+array.each do |name|
 new_array.push("Hello, #{}! You'll be assigned to room #{}!")
 end
+return new_array
 
 def printer
   return methods above
