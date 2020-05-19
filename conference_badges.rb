@@ -4,7 +4,7 @@ names.each do |name|
 puts "Hello, my name is #{name}."
 end
 
-return array of names
+return badge_maker
 end
 
 
