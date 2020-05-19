@@ -12,7 +12,6 @@ end
 return new_array
 end
 
-
 def assign_rooms
 
 puts "Hello, #{}! You'll be assigned to room #{}!"
