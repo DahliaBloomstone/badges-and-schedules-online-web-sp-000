@@ -19,6 +19,7 @@ array.each do |name|
 new_array.push("Hello, #{}! You'll be assigned to room #{}!")
 end
 return new_array
+end
 
 def printer
   return methods above
